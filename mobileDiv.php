@@ -5,18 +5,18 @@ include "./navbar.php";
 ?>
 <div id="main">
     <div id="header" class="section mb-5">
-        <img src="https://ya-webdesign.com/images/transparent-g-black-and-white-4.png" class="lax"
+        <img src="greg.ico" class="lax"
             data-lax-translate-x="0 0, vh -500" data-lax-optimize=true />
-        <img src="https://alexfox.dev/laxxx/img/a.png" class="lax my-5" data-lax-translate-x="0 0, vh 500"
+        <img src="greg.ico" class="lax my-5" data-lax-translate-x="0 0, vh 500"
             data-lax-optimize=true />
-        <img src="https://z.cash/wp-content/uploads/2019/03/zcash-icon-black.png" class="lax mt-2"
+        <img src="greg.ico" class="lax mt-2"
             data-lax-opacity="0 1, (0.8*vh) 0" />
         <?php 
         $n =1;
         for ($i=0; $i < 6; $i++) { 
             $y = 250;
             $x = cos($i)*150;
-            echo "<img src='https://z.cash/wp-content/uploads/2019/03/zcash-icon-black.png' class='lax' style='margin-top: -79pt'
+            echo "<img src='greg.ico' class='lax' style='margin-top: -79pt'
             data-lax-translate-y='0 0, vh $y ' data-lax-translate-x='0 0, vh $x '/>";
         }
         ?>
@@ -45,10 +45,10 @@ include "./navbar.php";
             <div class="lax bubble b" style="background: #EDD943; margin-left: 20pt; margin-top: 200pt"
                 data-lax-preset="lazy-350"></div>
             <h3 data-lax-optimize=true data-lax-preset="swing" class="lax chunkyText"
-                style="color: #EDD943; margin-top: 200pt;text-shadow:3px 0 10px #000">Jaune!</h3>
+                style="color: #EDD943; margin-top: 200pt;text-shadow:3px 0 10px #000">Pascalou!</h3>
         </div>
 
-        <h3 data-lax-preset="zoomIn" class="lax crazyText" data-lax-optimize=true>TONTON</h3>
+        <h3 data-lax-preset="zoomIn" class="lax crazyText" data-lax-optimize=true>ISSOU</h3>
     </div>
 
     <div id="section2" class="section">
